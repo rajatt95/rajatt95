@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajat Verma</h1>
-<h3 align="center">Rajat Verma | Test Automation Engineer | 5+ Years EXP. | Gurugram, India</h3>
+<h3 align="center">Test Automation Engineer | 5+ Years EXP. | Gurugram, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatt95&label=Profile%20views&color=0e75b6&style=flat" alt="rajatt95" /> </p>
 
