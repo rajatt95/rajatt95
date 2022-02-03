@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajat Verma</h1>
-<h3 align="center">Test Automation Engineer | Automation Testing | Agile | Java | JIRA | Selenium WebDriver | Appium | RestAssured | TestNG | Maven | Cucumber | ExtentReports | Jenkins | Github |</h3>
+<h3 align="center">Test Automation Engineer | Java | Selenium WebDriver | Appium | RestAssured |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatt95&label=Profile%20views&color=0e75b6&style=flat" alt="rajatt95" /> </p>
 
