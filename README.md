@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatt95" alt="rajatt95" /></a> </p>
 
-- 🌱 I’m currently learning **https://www.udemy.com/course/cucumber-bdd-masterclass/**
+- 🌱 I’m currently learning **https://www.testingminibytes.com/courses/selenium-java-with-docker-git-and-jenkins**
 
-- 👯 I’m looking to collaborate on **Automation Frameworks (Web, Mobile and API)**
+- 👯 I’m looking to collaborate on **Automation Frameworks Development(Web, Mobile and API)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rajatt95](https://github.com/rajatt95)
 
