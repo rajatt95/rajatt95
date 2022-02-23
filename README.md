@@ -1,9 +1,21 @@
 <h1 align="center">Hi 👋, I'm Rajat Verma</h1>
-<h3 align="center">Test Automation Engineer | 5+ Years EXP. | Gurugram, India</h3>
-
+<h3 align="center">Rajat Verma  |  Test Automation Engineer  |  5+ years EXP.  |  C-DAC |  India</h3>
+								
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatt95&label=Profile%20views&color=0e75b6&style=flat" alt="rajatt95" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatt95" alt="rajatt95" /></a> </p>
+
+	<br> 🌱 I’m currently learning -
+								<a href ="https://www.testingminibytes.com/courses/selenium-java-with-docker-git-and-jenkins">
+	<b> Selenium - Java with Docker, Git and Jenkins</b> </a>
+
+	<br> 👯 I’m looking to collaborate on Automation Frameworks Development <b> (Web, Mobile and API)</b>
+
+	<br> 👨‍💻 All of my projects are available at <a href="https://github.com/rajatt95"><b>Rajat_Github_Profile</b></a>
+
+	<br> 📫 How to reach me <b>rajatvermaa95@gmail.com</b>
+
+	<br> 📄 Know about my experiences <a href="https://drive.google.com/file/d/13rnO2lEudtSxSMP8pjCnFv8XmlcUDMeg/view?usp=sharing">RajatVerma_SoftwareTestEngineer</a>
 
 - 🌱 I’m currently learning **https://www.testingminibytes.com/courses/selenium-java-with-docker-git-and-jenkins**
 
