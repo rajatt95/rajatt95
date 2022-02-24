@@ -7,19 +7,26 @@
 
 - 🌱 I’m currently learning <a href ="https://www.testingminibytes.com/courses/selenium-java-with-docker-git-and-jenkins">
 	<b> Selenium - Java with Docker, Git and Jenkins</b> </a>
-	
-- 👯 I’m looking to collaborate on **Automation Frameworks Development (Web, Mobile and API)**
+	 and, working on 
+	<a href= "https://drive.google.com/drive/folders/1tne9pZjgWvfrS0l9tVHs6k1jnQHpTLoA?usp=sharing">
+	<b> Documents </b></a>
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/rajatt95"><b>Rajat_Github_Profile</b></a>
+- 👯 I’m looking to collaborate on <a href="https://github.com/rajatt95"><b> Test Automation Frameworks Development (Web, Mobile and API)</b></a>
 
-- 📫 How to reach me **rajatvermaa95@gmail.com**
+- 👨‍💻 All of my projects are available at <a href="https://github.com/rajatt95"><b>Rajat Github Profile</b></a>
+
+- 📫 How to reach me **rajatvermaa95@gmail.com** and <a href="https://rajatt95.github.io/"> <b> Rajat Github Page</b></a>
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1g5ldHkSs7YYHo0s1qEoWgHA7x-Qs9IV9/view?usp=sharing"><b>RajatVerma_SoftwareTestEngineer</b></a>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rajat-v-3b0685128/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat-v-3b0685128/" height="30" width="40" /></a>
-</p>
+<p align="left"> <a href="https://linkedin.com/in/rajat-v-3b0685128/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat-v-3b0685128/" height="30" width="40" /></a></p>
+
+<!-- <ul class="icons">
+	<li><a href="https://www.linkedin.com/in/rajat-v-3b0685128/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+	<li><a href="https://github.com/rajatt95" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+	<li><a href="https://rajatt95.github.io/" class="icon brands fa-github-alt"><span class="label">GitHub Page</span></a></li>
+</ul> -->
 -------------------------------------
 <article>
 	<h3>Projects</h3>
