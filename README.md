@@ -5,14 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatt95" alt="rajatt95" /></a> </p>
 
-- 🌱 I’m currently learning <a href ="https://www.testingminibytes.com/courses/selenium-java-with-docker-git-and-jenkins">
-	<b> Selenium - Java with Docker, Git and Jenkins</b> </a>
+- 🌱 I’m currently learning <a href ="https://www.udemy.com/course/cypress-tutorial/">
+	<b> Cypress -Modern Automation Testing from Scratch + Frameworks </b> </a>
 	 and, working on 
 	<a href= "https://drive.google.com/drive/folders/1tne9pZjgWvfrS0l9tVHs6k1jnQHpTLoA?usp=sharing">
-	<b> Documents </b></a>
+	<b> Documents on Technical topics </b></a>
 
 - 👯 I’m looking to collaborate on <a href="https://github.com/rajatt95"><b> Test Automation Frameworks Development (Web, Mobile and API)</b></a>
-
+	- <a href="https://github.com/stars/rajatt95/lists/selenium-automation-frameworks"> Selenium Automation Frameworks </a>
+	- <a href="https://github.com/stars/rajatt95/lists/appium-automation-frameworks"> Appium Automation Frameworks </a>	
+	- <a href="https://github.com/stars/rajatt95/lists/restassured-automation-framework"> RestAssured Automation Frameworks  </a>
+	- <a href="https://github.com/stars/rajatt95/lists/Cypress Automation Frameworks"> Cypress Automation Frameworks </a>
 - 👨‍💻 All of my projects are available at <a href="https://github.com/rajatt95"><b>Rajat Github Profile</b></a>
 
 - 📫 How to reach me **rajatvermaa95@gmail.com** and <a href="https://rajatt95.github.io/"> <b> Rajat Github Page</b></a>
