@@ -12,10 +12,10 @@
 	<b> Documents on Technical topics </b></a>
 
 - 👯 I’m looking to collaborate on <a href="https://github.com/rajatt95"><b> Test Automation Frameworks Development (Web, Mobile and API)</b></a>
-	- <a href="https://github.com/stars/rajatt95/lists/selenium-automation-frameworks"> Selenium Automation Frameworks </a>
-	- <a href="https://github.com/stars/rajatt95/lists/appium-automation-frameworks"> Appium Automation Frameworks </a>	
-	- <a href="https://github.com/stars/rajatt95/lists/restassured-automation-framework"> RestAssured Automation Frameworks  </a>
-	- <a href="https://github.com/stars/rajatt95/lists/Cypress Automation Frameworks"> Cypress Automation Frameworks </a>
+	- <a href="https://github.com/stars/rajatt95/lists/selenium-automation-frameworks"> <b> <i> Selenium Automation Frameworks </i> </b> </a>
+	- <a href="https://github.com/stars/rajatt95/lists/appium-automation-frameworks"> <b> <i> Appium Automation Frameworks </i> </b> </a>	
+	- <a href="https://github.com/stars/rajatt95/lists/restassured-automation-framework"> <b> <i> RestAssured Automation Frameworks </i> </b> </a>
+	- <a href="https://github.com/stars/rajatt95/lists/cypress-automation-frameworks"> <b> <i> Cypress Automation Frameworks </i> </b> </a>
 - 👨‍💻 All of my projects are available at <a href="https://github.com/rajatt95"><b>Rajat Github Profile</b></a>
 
 - 📫 How to reach me **rajatvermaa95@gmail.com** and <a href="https://rajatt95.github.io/"> <b> Rajat Github Page</b></a>
