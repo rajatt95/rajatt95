@@ -42,9 +42,10 @@
 				<li> <a href="https://github.com/rajatt95/TMB_SeleniumFramework2">TMB SeleniumFramework 2</a> </li>
 				<li> <a href="https://github.com/rajatt95/Final_Selenium_Tutorial">Selenium Tutorial</a> </li>
 				<li> <a href="https://github.com/rajatt95/Final_Framework_Selenium_TestNG">Selenium Framework</a> </li>
-				<li> <a href="https://github.com/rajatt95/CypressBasics">Cypress Tutorial</a> </li>
-				<li> <a href="https://github.com/rajatt95/Cypress_BDD">Cypress BDD</a> </li>
-				<li> <a href="https://github.com/rajatt95/Playwright_JS">Playwright JS</a> </li>
+				<li> <a href="https://github.com/rajatt95/Cypress_JS">Cypress (Javascript)</a> </li>
+				<li> <a href="https://github.com/rajatt95/Cypress_JS_BDD">Cypress BDD (Javascript, Cucumber)</a> </li>
+				<li> <a href="https://github.com/rajatt95/Playwright_JS">Playwright (Javascript)</a> </li>
+				<li> <a href="https://github.com/rajatt95/Playwright_TS">Playwright (Typescript)</a> </li>
 			</ul>
 		</ul>
 		<ul>
