@@ -45,6 +45,7 @@
 				<li> <a href="https://github.com/rajatt95/Cypress_JS">Cypress (Javascript)</a> </li>
 				<li> <a href="https://github.com/rajatt95/Cypress_JS_BDD">Cypress BDD (Javascript, Cucumber)</a> </li>
 				<li> <a href="https://github.com/rajatt95/Playwright_JS">Playwright (Javascript)</a> </li>
+				<li> <a href="https://github.com/rajatt95/Playwright_JS_BDD">Playwright BDD (Javascript, Cucumber)</a> </li>
 				<li> <a href="https://github.com/rajatt95/Playwright_TS">Playwright (Typescript)</a> </li>
 			</ul>
 		</ul>
