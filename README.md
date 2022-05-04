@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatt95" alt="rajatt95" /></a> </p>
 
-- 🌱 I’m currently learning <a href ="https://www.udemy.com/course/automated-software-testing-with-playwright/">
+- 🌱 I’m currently learning <a href ="https://www.udemy.com/course/automated-software-testing-with-playwright/" target="_blank">
 	<b> Automated Software Testing with Playwright </b> </a>
 	
 - 👨‍💻 All of my projects are available at <a href="https://github.com/rajatt95"><b>Rajat - Github Profile</b></a>
