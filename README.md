@@ -7,9 +7,8 @@
 
 - 🌱 I’m currently learning <a href ="https://www.udemy.com/course/automated-software-testing-with-playwright/">
 	<b> Automated Software Testing with Playwright </b> </a>
-	 and, working on 
-	<a href= "https://drive.google.com/drive/folders/1tne9pZjgWvfrS0l9tVHs6k1jnQHpTLoA?usp=sharing">
-	<b> Documents on Technical topics </b></a>
+	
+- 👨‍💻 All of my projects are available at <a href="https://github.com/rajatt95"><b>Rajat - Github Profile</b></a>
 
 - 👯 I’m looking to collaborate on <a href="https://github.com/rajatt95"><b> Test Automation Frameworks Development (Web, Mobile and API)</b></a>
 	- <a href="https://github.com/stars/rajatt95/lists/selenium-automation-frameworks"> <b> <i> Selenium Automation Frameworks </i> </b> </a>
@@ -17,15 +16,23 @@
 	- <a href="https://github.com/stars/rajatt95/lists/restassured-automation-framework"> <b> <i> RestAssured Automation Frameworks </i> </b> </a>
 	- <a href="https://github.com/stars/rajatt95/lists/cypress-automation-frameworks"> <b> <i> Cypress Automation Frameworks </i> </b> </a>
 	- <a href="https://github.com/stars/rajatt95/lists/playwright-automation-frameworks"> <b> <i> Playwright Automation Frameworks </i> </b> </a>
-- 👨‍💻 All of my projects are available at <a href="https://github.com/rajatt95"><b>Rajat Github Profile</b></a>
 
-- 📫 How to reach me **rajatvermaa95@gmail.com** and <a href="https://rajatt95.github.io/"> <b> Rajat Github Page</b></a>
+- 📄 Documents on Technical Topics 
+	- <a href="https://drive.google.com/drive/folders/1tne9pZjgWvfrS0l9tVHs6k1jnQHpTLoA?usp=sharing"> <b> <i> Documents - Google Drive </i> </b> </a>
+	- <a href="https://github.com/rajatt95/Documents"> <b> <i> Documents - Github repository </i> </b> </a>	
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/16jZ2HjDulzBAp9f00uVlpbBvAZIvIdPL/view?usp=sharing"><b>RajatVerma_SoftwareTestEngineer</b></a>
-
+<!-- - 📫 How to reach me **rajatvermaa95@gmail.com** and <a href="https://rajatt95.github.io/"> <b> Rajat Github Page</b></a>
+ -->
+- 📫 How to reach me 
+	- <a href="https://rajatt95.github.io/"> <b> <i> Rajat - Github Page </i> </b> </a>	
+	- <a href="https://github.com/rajatt95/"> <b> <i> Rajat - Github Profile </i> </b> </a>	
+	- <a href="https://www.linkedin.com/in/rajat-v-3b0685128/"> <b> <i> Rajat - LinkedIn </i> </b> </a>	
+	- <a href="https://drive.google.com/drive/folders/10thl_mWevemQHabVzpY_a2ie1BG13rUk?usp=sharing"> <b> <i> Rajat - Resume </i> </b> </a>	
+ 
+<!-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://linkedin.com/in/rajat-v-3b0685128/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat-v-3b0685128/" height="30" width="40" /></a></p>
-
+ -->
 <!-- <ul class="icons">
 	<li><a href="https://www.linkedin.com/in/rajat-v-3b0685128/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
 	<li><a href="https://github.com/rajatt95" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
