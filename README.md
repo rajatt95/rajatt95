@@ -5,29 +5,29 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatt95" alt="rajatt95" /></a> </p>
 
-- 🌱 I’m currently learning <a href ="https://www.udemy.com/course/automated-software-testing-with-playwright/" target="_blank">
-	<b> Automated Software Testing with Playwright </b> </a>
+- 🌱 I’m currently learning <a href ="https://www.udemy.com/course/python-sdet-rest-api-automation/">
+	<b> Learn API Automation Testing with Python & BDD Framework </b> </a>
 	
 - 👨‍💻 All of my projects are available at <a href="https://github.com/rajatt95"><b>Rajat - Github Profile</b></a>
 
 - 👯 I’m looking to collaborate on <a href="https://github.com/rajatt95"><b> Test Automation Frameworks Development (Web, Mobile and API)</b></a>
-	- <a target="_blank" href="https://github.com/stars/rajatt95/lists/selenium-automation-frameworks"> <b> <i> Selenium Automation Frameworks </i> </b> </a>
-	- <a target="_blank" href="https://github.com/stars/rajatt95/lists/appium-automation-frameworks"> <b> <i> Appium Automation Frameworks </i> </b> </a>	
-	- <a target="_blank" href="https://github.com/stars/rajatt95/lists/restassured-automation-framework"> <b> <i> RestAssured Automation Frameworks </i> </b> </a>
-	- <a target="_blank" href="https://github.com/stars/rajatt95/lists/cypress-automation-frameworks"> <b> <i> Cypress Automation Frameworks </i> </b> </a>
-	- <a target="_blank" href="https://github.com/stars/rajatt95/lists/playwright-automation-frameworks"> <b> <i> Playwright Automation Frameworks </i> </b> </a>
+	- <a href="https://github.com/stars/rajatt95/lists/selenium-automation-frameworks"> <b> <i> Selenium Automation Frameworks </i> </b> </a>
+	- <a href="https://github.com/stars/rajatt95/lists/appium-automation-frameworks"> <b> <i> Appium Automation Frameworks </i> </b> </a>	
+	- <a href="https://github.com/stars/rajatt95/lists/restassured-automation-framework"> <b> <i> RestAssured Automation Frameworks </i> </b> </a>
+	- <a href="https://github.com/stars/rajatt95/lists/cypress-automation-frameworks"> <b> <i> Cypress Automation Frameworks </i> </b> </a>
+	- <a href="https://github.com/stars/rajatt95/lists/playwright-automation-frameworks"> <b> <i> Playwright Automation Frameworks </i> </b> </a>
 
 - 📄 Documents on Technical Topics 
-	- <a target="_blank" href="https://drive.google.com/drive/folders/1tne9pZjgWvfrS0l9tVHs6k1jnQHpTLoA?usp=sharing"> <b> <i> Documents - Google Drive </i> </b> </a>
-	- <a target="_blank" href="https://github.com/rajatt95/Documents"> <b> <i> Documents - Github repository </i> </b> </a>	
+	- <a href="https://drive.google.com/drive/folders/1tne9pZjgWvfrS0l9tVHs6k1jnQHpTLoA?usp=sharing"> <b> <i> Documents - Google Drive </i> </b> </a>
+	- <a href="https://github.com/rajatt95/Documents"> <b> <i> Documents - Github repository </i> </b> </a>	
 
 <!-- - 📫 How to reach me **rajatvermaa95@gmail.com** and <a href="https://rajatt95.github.io/"> <b> Rajat Github Page</b></a>
  -->
 - 📫 How to reach me 
-	- <a target="_blank" href="https://rajatt95.github.io/"> <b> <i> Rajat - Github Page </i> </b> </a>	
-	- <a target="_blank" href="https://github.com/rajatt95/"> <b> <i> Rajat - Github Profile </i> </b> </a>	
-	- <a target="_blank" href="https://www.linkedin.com/in/rajat-v-3b0685128/"> <b> <i> Rajat - LinkedIn </i> </b> </a>	
-	- <a target="_blank" href="https://drive.google.com/drive/folders/10thl_mWevemQHabVzpY_a2ie1BG13rUk?usp=sharing"> <b> <i> Rajat - Resume </i> </b> </a>	
+	- <a href="https://rajatt95.github.io/"> <b> <i> Rajat - Github Page </i> </b> </a>	
+	- <a href="https://github.com/rajatt95/"> <b> <i> Rajat - Github Profile </i> </b> </a>	
+	- <a href="https://www.linkedin.com/in/rajat-v-3b0685128/"> <b> <i> Rajat - LinkedIn </i> </b> </a>	
+	- <a href="https://drive.google.com/drive/folders/10thl_mWevemQHabVzpY_a2ie1BG13rUk?usp=sharing"> <b> <i> Rajat - Resume </i> </b> </a>	
  
 <!-- 
 <h3 align="left">Connect with me:</h3>
