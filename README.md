@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatt95" alt="rajatt95" /></a> </p>
 
-- 🌱 I’m currently learning <a href ="https://www.udemy.com/course/playwright-tutorials-automation-testing/">
-	<b> Playwright JS Automation Testing from Scratch with Framework </b> </a>
+- 🌱 I’m currently learning <a href ="https://www.udemy.com/course/automated-software-testing-with-playwright/">
+	<b> Automated Software Testing with Playwright </b> </a>
 	 and, working on 
 	<a href= "https://drive.google.com/drive/folders/1tne9pZjgWvfrS0l9tVHs6k1jnQHpTLoA?usp=sharing">
 	<b> Documents on Technical topics </b></a>
