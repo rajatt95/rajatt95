@@ -76,6 +76,7 @@
 			<ul style="list-style-type:circle">
 				<li> <a target="_blank" href="https://github.com/rajatt95/MasterRestAssuredFramework">Master RestAssured Framework</a> </li>
 				<li> <a target="_blank" href="https://github.com/rajatt95/Final_RestAssured_Tutorial">RestAssured Tutorial</a> </li>
+				<li> <a target="_blank" href="https://github.com/rajatt95/Python_Requests">PythonRequests Tutorial</a> </li>
 			</ul>	
 		</ul>
 		<ul>
