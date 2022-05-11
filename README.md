@@ -62,8 +62,8 @@
 				<li> <a href="https://github.com/rajatt95/Cypress_JS_BDD">Cypress BDD (Javascript, Cucumber)</a> </li>
 				<li> <a href="https://github.com/rajatt95/Playwright_JS">Playwright (Javascript)</a> </li>
 				<li> <a href="https://github.com/rajatt95/Playwright_JS_BDD">Playwright BDD (Javascript, Cucumber)</a> </li>
-				<li> <a target="_blank" href="https://github.com/rajatt95/Playwright_JS_BDD_CodeceptJS/">Playwright BDD (Javascript, CodeceptJS)</a> </li>
-				<li> <a target="_blank" href="https://github.com/rajatt95/Playwright_TS">Playwright (Typescript)</a> </li>
+				<li> <a href="https://github.com/rajatt95/Playwright_JS_BDD_CodeceptJS/">Playwright BDD (Javascript, CodeceptJS)</a> </li>
+				<li> <a href="https://github.com/rajatt95/Playwright_TS">Playwright (Typescript)</a> </li>
 			</ul>
 		</ul>
 		<ul>
@@ -80,7 +80,7 @@
 				<li> <a href="https://github.com/rajatt95/MasterRestAssuredFramework">Master RestAssured Framework (Java)</a> </li>
 				<li> <a href="https://github.com/rajatt95/Final_RestAssured_Tutorial">RestAssured Tutorial (Java)</a> </li>
 				<li> <a href="https://github.com/rajatt95/Python_Requests">Requests Tutorial (Python) </a> </li>
-				<li> <a href="https://github.com/rajatt95/PythonRequests_BDD">Requests BDD (Python, Cucumber)</a> </li>
+				<li> <a href="https://github.com/rajatt95/PythonRequests_BDD">Requests BDD (Python)</a> </li>
 			</ul>	
 		</ul>
 		<ul>
