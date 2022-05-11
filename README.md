@@ -86,10 +86,10 @@
 		<ul>
 			<li><h4>Others</h4></li>
 			<ul style="list-style-type:circle">
-				<li> <a target="_blank" href="https://github.com/rajatt95/Final_Automation_Framework_Components_Tutorial">Test Automation Framework Components</a> </li>
-				<li> <a target="_blank" href="https://github.com/rajatt95/Final_PageObjectModel_And_PageFactories_Tutorial">Page Object Model with Page Factories</a> </li>
-				<li> <a target="_blank" href="https://github.com/rajatt95/Final_TestNG_Tutorial">TestNG</a> </li>
-				<li> <a target="_blank" href="https://github.com/rajatt95/Final_Cucumber_Tutorial">Cucumber</a> </li>									</ul>
+				<li> <a href="https://github.com/rajatt95/Final_Automation_Framework_Components_Tutorial">Test Automation Framework Components (Java)</a> </li>
+				<li> <a href="https://github.com/rajatt95/Final_PageObjectModel_And_PageFactories_Tutorial">Page Object Model with Page Factories (Java)</a> </li>
+				<li> <a href="https://github.com/rajatt95/Final_TestNG_Tutorial">TestNG (Java)</a> </li>
+				<li> <a href="https://github.com/rajatt95/Final_Cucumber_Tutorial">Cucumber (Java)</a> </li>									</ul>
 		</ul>
 </article>
 -------------------------------------
