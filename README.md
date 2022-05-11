@@ -16,6 +16,9 @@
 	- <a href="https://github.com/stars/rajatt95/lists/restassured-automation-framework"> <b> <i> RestAssured Automation Frameworks </i> </b> </a>
 	- <a href="https://github.com/stars/rajatt95/lists/cypress-automation-frameworks"> <b> <i> Cypress Automation Frameworks </i> </b> </a>
 	- <a href="https://github.com/stars/rajatt95/lists/playwright-automation-frameworks"> <b> <i> Playwright Automation Frameworks </i> </b> </a>
+	- <a href="https://github.com/stars/rajatt95/lists/requests-automation-framework"> <b> <i> Requests Automation Frameworks </i> </b> </a>
+
+
 
 - 📄 Documents on Technical Topics 
 	- <a href="https://drive.google.com/drive/folders/1tne9pZjgWvfrS0l9tVHs6k1jnQHpTLoA?usp=sharing"> <b> <i> Documents - Google Drive </i> </b> </a>
@@ -50,15 +53,15 @@
 		<ul>
 			<li><h4>Web Automation</h4></li>
 			<ul style="list-style-type:circle">
-				<li> <a target="_blank" href="https://github.com/rajatt95/MasterSeleniumFramework">Master Selenium Framework</a> </li>
-				<li> <a target="_blank" href="https://github.com/rajatt95/MasterSeleniumFramework_BDD">Master Selenium Framework BDD</a> </li>
-				<li> <a target="_blank" href="https://github.com/rajatt95/TMB_SeleniumFramework2">TMB SeleniumFramework 2</a> </li>
-				<li> <a target="_blank" href="https://github.com/rajatt95/Final_Selenium_Tutorial">Selenium Tutorial</a> </li>
-				<li> <a target="_blank" href="https://github.com/rajatt95/Final_Framework_Selenium_TestNG">Selenium Framework</a> </li>
-				<li> <a target="_blank" href="https://github.com/rajatt95/Cypress_JS">Cypress (Javascript)</a> </li>
-				<li> <a target="_blank" href="https://github.com/rajatt95/Cypress_JS_BDD">Cypress BDD (Javascript, Cucumber)</a> </li>
-				<li> <a target="_blank" href="https://github.com/rajatt95/Playwright_JS">Playwright (Javascript)</a> </li>
-				<li> <a target="_blank" href="https://github.com/rajatt95/Playwright_JS_BDD">Playwright BDD (Javascript, Cucumber)</a> </li>
+				<li> <a href="https://github.com/rajatt95/MasterSeleniumFramework">Master Selenium Framework (Java)</a> </li>
+				<li> <a href="https://github.com/rajatt95/MasterSeleniumFramework_BDD">Master Selenium Framework BDD (Java, Cucumber)</a> </li>
+				<li> <a href="https://github.com/rajatt95/TMB_SeleniumFramework2">TMB SeleniumFramework 2 (Java)</a> </li>
+				<li> <a href="https://github.com/rajatt95/Final_Selenium_Tutorial">Selenium Tutorial (Java)</a> </li>
+				<li> <a href="https://github.com/rajatt95/Final_Framework_Selenium_TestNG">Selenium Framework (Java)</a> </li>
+				<li> <a href="https://github.com/rajatt95/Cypress_JS">Cypress (Javascript)</a> </li>
+				<li> <a href="https://github.com/rajatt95/Cypress_JS_BDD">Cypress BDD (Javascript, Cucumber)</a> </li>
+				<li> <a href="https://github.com/rajatt95/Playwright_JS">Playwright (Javascript)</a> </li>
+				<li> <a href="https://github.com/rajatt95/Playwright_JS_BDD">Playwright BDD (Javascript, Cucumber)</a> </li>
 				<li> <a target="_blank" href="https://github.com/rajatt95/Playwright_JS_BDD_CodeceptJS/">Playwright BDD (Javascript, CodeceptJS)</a> </li>
 				<li> <a target="_blank" href="https://github.com/rajatt95/Playwright_TS">Playwright (Typescript)</a> </li>
 			</ul>
@@ -66,17 +69,18 @@
 		<ul>
 			<li><h4>Mobile Automation</h4></li>
 			<ul style="list-style-type:circle">
-				<li> <a target="_blank" href="https://github.com/rajatt95/MasterAppiumFramework">Master Appium Framework</a> </li>
-				<li> <a target="_blank" href="https://github.com/rajatt95/MasterAppiumFramework_BDD">Master Appium Framework BDD</a> </li>
-				<li> <a target="_blank" href="https://github.com/rajatt95/Learn_Appium_basicsToAdvanced_RS"> Appium Tutorial</a> </li>
+				<li> <a target="_blank" href="https://github.com/rajatt95/MasterAppiumFramework">Master Appium Framework (Java)</a> </li>
+				<li> <a target="_blank" href="https://github.com/rajatt95/MasterAppiumFramework_BDD">Master Appium Framework BDD (Java, Cucumber)</a> </li>
+				<li> <a target="_blank" href="https://github.com/rajatt95/Learn_Appium_basicsToAdvanced_RS"> Appium Tutorial (Java)</a> </li>
 			</ul>	
 		</ul>
 		<ul>
 			<li><h4>API Automation</h4></li>	
 			<ul style="list-style-type:circle">
-				<li> <a target="_blank" href="https://github.com/rajatt95/MasterRestAssuredFramework">Master RestAssured Framework</a> </li>
-				<li> <a target="_blank" href="https://github.com/rajatt95/Final_RestAssured_Tutorial">RestAssured Tutorial</a> </li>
-				<li> <a target="_blank" href="https://github.com/rajatt95/Python_Requests">PythonRequests Tutorial</a> </li>
+				<li> <a href="https://github.com/rajatt95/MasterRestAssuredFramework">Master RestAssured Framework (Java)</a> </li>
+				<li> <a href="https://github.com/rajatt95/Final_RestAssured_Tutorial">RestAssured Tutorial (Java)</a> </li>
+				<li> <a href="https://github.com/rajatt95/Python_Requests">Requests Tutorial (Python) </a> </li>
+				<li> <a href="https://github.com/rajatt95/PythonRequests_BDD">Requests BDD (Python, Cucumber)</a> </li>
 			</ul>	
 		</ul>
 		<ul>
