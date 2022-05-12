@@ -80,7 +80,7 @@
 				<li> <a href="https://github.com/rajatt95/MasterRestAssuredFramework">Master RestAssured Framework (Java)</a> </li>
 				<li> <a href="https://github.com/rajatt95/Final_RestAssured_Tutorial">RestAssured Tutorial (Java)</a> </li>
 				<li> <a href="https://github.com/rajatt95/Python_Requests">Requests Tutorial (Python) </a> </li>
-				<li> <a href="https://github.com/rajatt95/PythonRequests_BDD">Requests BDD (Python)</a> </li>
+				<li> <a href="https://github.com/rajatt95/PythonRequests_BDD">Requests BDD (Python, Behave)</a> </li>
 			</ul>	
 		</ul>
 		<ul>
