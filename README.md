@@ -8,7 +8,16 @@
 - 🌱 I’m currently learning <a href ="https://www.udemy.com/course/python-sdet-rest-api-automation/">
 	<b> Learn API Automation Testing with Python & BDD Framework </b> </a>
 	
-- 💻 All of my projects are available at <a href="https://github.com/rajatt95"><b>Rajat - Github Profile</b></a>
+- 💻 Great teachers emanate out of knowledge, passion and compassion. The best teachers teach from the heart. Thank you for all that you do!
+	- <a href="https://github.com/stars/rajatt95/lists/udemy-omprakash-chavan"> <b> <i> Omprakash Chavan </i> (UDEMY) </b> </a>
+	- <a href="https://github.com/stars/rajatt95/lists/testing-mini-bytes-amuthan"> <b> <i> Amuthan Sakthivel </i> (Testing Mini Bytes) </b> </a>
+	- <a href="https://github.com/stars/rajatt95/lists/udemy-rahul-shetty"> <b> <i> Rahul Shetty </i> (UDEMY) </b> </a>
+	- <a href="https://github.com/stars/rajatt95/lists/udemy-kaniel-outis"> <b> <i> Kaniel Outis </i> (UDEMY) </b> </a>
+	
+
+<!-- - All of my projects are available at <a href="https://github.com/rajatt95"><b>Rajat - Github Profile</b></a>
+ -->
+<!-- - 💻 All of my projects are available at <a href="https://github.com/rajatt95"><b>Rajat - Github Profile</b></a> -->
 
 - 👨‍💻 I’m looking to collaborate on <a href="https://github.com/rajatt95"><b> Test Automation Frameworks Development (Web, Mobile and API)</b></a>
 	- <a href="https://github.com/stars/rajatt95/lists/selenium-automation-frameworks"> <b> <i> Selenium Automation Frameworks </i> </b> </a>
