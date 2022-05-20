@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatt95" alt="rajatt95" /></a> </p>
 
-- 🌱 I’m currently learning <a href ="https://www.udemy.com/course/python-sdet-rest-api-automation/">
-	<b> Learn API Automation Testing with Python & BDD Framework </b> </a>
+- 🌱 I’m currently learning <a href ="https://www.udemy.com/course/automated-testing-with-cypress">
+	<b> Automated Software Testing with Cypress </b> </a>
 	
 - 💻 Great teachers emanate out of knowledge, passion and compassion. The best teachers teach from the heart. Thank you for all that you do!
 	- <a href="https://github.com/stars/rajatt95/lists/udemy-omprakash-chavan"> <b> <i> Omprakash Chavan </i> (UDEMY) </b> </a>
@@ -69,6 +69,8 @@
 				<li> <a href="https://github.com/rajatt95/Final_Framework_Selenium_TestNG">Selenium Framework (Java)</a> </li>
 				<li> <a href="https://github.com/rajatt95/Cypress_JS">Cypress (Javascript)</a> </li>
 				<li> <a href="https://github.com/rajatt95/Cypress_JS_BDD">Cypress BDD (Javascript, Cucumber)</a> </li>
+				<li> <a href="https://github.com/rajatt95/Cypress_JS">Cypress 2 (Javascript)</a> </li>
+				<li> <a href="https://github.com/rajatt95/Cypress_JS">Cypress (Typescript, AppActions)</a> </li>
 				<li> <a href="https://github.com/rajatt95/Playwright_JS">Playwright (Javascript)</a> </li>
 				<li> <a href="https://github.com/rajatt95/Playwright_TS">Playwright (Typescript)</a> </li>
 				<li> <a href="https://github.com/rajatt95/Playwright_JS_BDD">Playwright BDD (Javascript, Cucumber)</a> </li>
