@@ -82,7 +82,7 @@
 			<ul style="list-style-type:circle">
 				<li> <a target="_blank" href="https://github.com/rajatt95/MasterAppiumFramework">Master Appium Framework (Java)</a> </li>
 				<li> <a target="_blank" href="https://github.com/rajatt95/MasterAppiumFramework_BDD">Master Appium Framework BDD (Java, Cucumber)</a> </li>
-				<li> <a target="_blank" href="https://github.com/rajatt95/Learn_Appium_basicsToAdvanced_RS"> Appium Tutorial (Java)</a> </li>
+				<li> <a target="_blank" href="https://github.com/rajatt95/Appium_OC"> Appium Tutorial (Java)</a> </li>
 			</ul>	
 		</ul>
 		<ul>
