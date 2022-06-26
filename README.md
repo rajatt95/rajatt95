@@ -5,14 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatt95" alt="rajatt95" /></a> </p>
 
-- 🌱 I’m currently learning <a href ="https://www.udemy.com/course/automated-testing-with-cypress">
-	<b> Automated Software Testing with Cypress </b> </a>
+- 🌱 I’m currently learning <a href ="https://www.udemy.com/course/api-testing-python/">
+	<b> Step by Step Rest API Testing using Python + Pytest +Allure </b> </a>
 	
 - 💻 Great teachers emanate out of knowledge, passion and compassion. The best teachers teach from the heart. Thank you for all that you do!
 	- <a href="https://github.com/stars/rajatt95/lists/udemy-omprakash-chavan"> <b> <i> Omprakash Chavan </i> (UDEMY) </b> </a>
-	- <a href="https://github.com/stars/rajatt95/lists/testing-mini-bytes-amuthan"> <b> <i> Amuthan Sakthivel </i> (Testing Mini Bytes) </b> </a>
+	- <a href="https://github.com/stars/rajatt95/lists/testing-mini-bytes-amuthan"> <b> <i> Amuthan Sakthivel </i> (Testing Mini Bytes, YouTube) </b> </a>
 	- <a href="https://github.com/stars/rajatt95/lists/udemy-rahul-shetty"> <b> <i> Rahul Shetty </i> (UDEMY) </b> </a>
 	- <a href="https://github.com/stars/rajatt95/lists/udemy-kaniel-outis"> <b> <i> Kaniel Outis </i> (UDEMY) </b> </a>
+	- <a href="https://github.com/stars/rajatt95/lists/testing-world-infotech"> <b> <i> Testing World Infotech </i> (UDEMY) </b> </a>
+	
 	
 
 <!-- - All of my projects are available at <a href="https://github.com/rajatt95"><b>Rajat - Github Profile</b></a>
@@ -92,6 +94,7 @@
 				<li> <a href="https://github.com/rajatt95/Final_RestAssured_Tutorial">RestAssured Tutorial (Java)</a> </li>
 				<li> <a href="https://github.com/rajatt95/Python_Requests">Requests Tutorial (Python) </a> </li>
 				<li> <a href="https://github.com/rajatt95/PythonRequests_BDD">Requests BDD (Python, Behave)</a> </li>
+				<li> <a href="https://github.com/rajatt95/Python_Requests_TWI">Requests Tutorial (Python) (TWI)</a> </li>
 			</ul>	
 		</ul>
 		<ul>
