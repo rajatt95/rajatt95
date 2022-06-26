@@ -13,7 +13,7 @@
 	- <a href="https://github.com/stars/rajatt95/lists/testing-mini-bytes-amuthan"> <b> <i> Amuthan Sakthivel </i> (Testing Mini Bytes, YouTube) </b> </a>
 	- <a href="https://github.com/stars/rajatt95/lists/udemy-rahul-shetty"> <b> <i> Rahul Shetty </i> (UDEMY) </b> </a>
 	- <a href="https://github.com/stars/rajatt95/lists/udemy-kaniel-outis"> <b> <i> Kaniel Outis </i> (UDEMY) </b> </a>
-	- <a href="https://github.com/stars/rajatt95/lists/testing-world-infotech"> <b> <i> Testing World Infotech </i> (UDEMY) </b> </a>
+	- <a href="https://github.com/stars/rajatt95/lists/udemy-testing-world-infotech"> <b> <i> Testing World Infotech </i> (UDEMY) </b> </a>
 	
 	
 
