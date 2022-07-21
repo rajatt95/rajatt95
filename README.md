@@ -103,7 +103,9 @@
 				<li> <a href="https://github.com/rajatt95/Final_Automation_Framework_Components_Tutorial">Test Automation Framework Components (Java)</a> </li>
 				<li> <a href="https://github.com/rajatt95/Final_PageObjectModel_And_PageFactories_Tutorial">Page Object Model with Page Factories (Java)</a> </li>
 				<li> <a href="https://github.com/rajatt95/Final_TestNG_Tutorial">TestNG (Java)</a> </li>
-				<li> <a href="https://github.com/rajatt95/Final_Cucumber_Tutorial">Cucumber (Java)</a> </li>									</ul>
+				<li> <a href="https://github.com/rajatt95/Final_Cucumber_Tutorial">Cucumber (Java)</a> </li>
+				<li> <a href="https://github.com/rajatt95/Python_PyTest_TWI">PyTest (Python) (TWI)</a> </li>
+				</ul>
 		</ul>
 </article>
 -------------------------------------
