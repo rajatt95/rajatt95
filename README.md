@@ -64,36 +64,36 @@
 		<ul>
 			<li><h4>Web Automation</h4></li>
 			<ul style="list-style-type:circle">
-				<li> <a href="https://github.com/rajatt95/MasterSeleniumFramework">Master Selenium Framework (Java)</a> </li>
-				<li> <a href="https://github.com/rajatt95/MasterSeleniumFramework_BDD">Master Selenium Framework BDD (Java, Cucumber)</a> </li>
-				<li> <a href="https://github.com/rajatt95/TMB_SeleniumFramework2">TMB SeleniumFramework 2 (Java)</a> </li>
-				<li> <a href="https://github.com/rajatt95/Final_Selenium_Tutorial">Selenium Tutorial (Java)</a> </li>
+				<li> <a href="https://github.com/rajatt95/MasterSeleniumFramework">Master Selenium Framework (Java) (OC, TMB)</a> </li>
+				<li> <a href="https://github.com/rajatt95/MasterSeleniumFramework_BDD">Master Selenium Framework BDD (Java, Cucumber) (OC)</a> </li>
+				<li> <a href="https://github.com/rajatt95/TMB_SeleniumFramework2">TMB SeleniumFramework 2 (Java) (TMB)</a> </li>
+				<li> <a href="https://github.com/rajatt95/Final_Selenium_Tutorial">Selenium Tutorial (Java) (RS)</a> </li>
 				<li> <a href="https://github.com/rajatt95/Final_Framework_Selenium_TestNG">Selenium Framework (Java)</a> </li>
 				<li> <a href="https://github.com/rajatt95/Cypress_JS">Cypress (Javascript) (RS) </a> </li>
-				<li> <a href="https://github.com/rajatt95/Cypress_JS_BDD">Cypress BDD (Javascript, Cucumber)</a> </li>
+				<li> <a href="https://github.com/rajatt95/Cypress_JS_BDD">Cypress BDD (Javascript, Cucumber) (RS)</a> </li>
 				<li> <a href="https://github.com/rajatt95/Cypress_JS_2">Cypress (Javascript) (KO) </a> </li>
-				<li> <a href="https://github.com/rajatt95/Cypress_JS">Cypress (Typescript, AppActions)</a> </li>
-				<li> <a href="https://github.com/rajatt95/Playwright_JS">Playwright (Javascript)</a> </li>
-				<li> <a href="https://github.com/rajatt95/Playwright_TS">Playwright (Typescript)</a> </li>
-				<li> <a href="https://github.com/rajatt95/Playwright_JS_BDD">Playwright BDD (Javascript, Cucumber)</a> </li>
-				<li> <a href="https://github.com/rajatt95/Playwright_JS_BDD_CodeceptJS/">Playwright BDD (Javascript, CodeceptJS)</a> </li>
+				<li> <a href="https://github.com/rajatt95/Cypress_JS">Cypress (Typescript, AppActions) (KO)</a> </li>
+				<li> <a href="https://github.com/rajatt95/Playwright_JS">Playwright (Javascript) (RS)</a> </li>
+				<li> <a href="https://github.com/rajatt95/Playwright_TS">Playwright (Typescript) (KO)</a> </li>
+				<li> <a href="https://github.com/rajatt95/Playwright_JS_BDD">Playwright BDD (Javascript, Cucumber) (KO)</a> </li>
+				<li> <a href="https://github.com/rajatt95/Playwright_JS_BDD_CodeceptJS/">Playwright BDD (Javascript, CodeceptJS) (KO)</a> </li>
 			</ul>
 		</ul>
 		<ul>
 			<li><h4>Mobile Automation</h4></li>
 			<ul style="list-style-type:circle">
-				<li> <a target="_blank" href="https://github.com/rajatt95/MasterAppiumFramework">Master Appium Framework (Java)</a> </li>
-				<li> <a target="_blank" href="https://github.com/rajatt95/MasterAppiumFramework_BDD">Master Appium Framework BDD (Java, Cucumber)</a> </li>
-				<li> <a target="_blank" href="https://github.com/rajatt95/Appium_OC"> Appium Tutorial (Java)</a> </li>
+				<li> <a target="_blank" href="https://github.com/rajatt95/MasterAppiumFramework">Master Appium Framework (Java) (OC, TMB)</a> </li>
+				<li> <a target="_blank" href="https://github.com/rajatt95/MasterAppiumFramework_BDD">Master Appium Framework BDD (Java, Cucumber) (OC)</a> </li>
+				<li> <a target="_blank" href="https://github.com/rajatt95/Appium_OC"> Appium Tutorial (Java) (OC)</a> </li>
 			</ul>	
 		</ul>
 		<ul>
 			<li><h4>API Automation</h4></li>	
 			<ul style="list-style-type:circle">
-				<li> <a href="https://github.com/rajatt95/MasterRestAssuredFramework">Master RestAssured Framework (Java)</a> </li>
-				<li> <a href="https://github.com/rajatt95/Final_RestAssured_Tutorial">RestAssured Tutorial (Java)</a> </li>
-				<li> <a href="https://github.com/rajatt95/Python_Requests">Requests Tutorial (Python) </a> </li>
-				<li> <a href="https://github.com/rajatt95/PythonRequests_BDD">Requests BDD (Python, Behave)</a> </li>
+				<li> <a href="https://github.com/rajatt95/MasterRestAssuredFramework">Master RestAssured Framework (Java) (OC, TMB)</a> </li>
+				<li> <a href="https://github.com/rajatt95/Final_RestAssured_Tutorial">RestAssured Tutorial (Java) (RS)</a> </li>
+				<li> <a href="https://github.com/rajatt95/Python_Requests">Requests Tutorial (Python) (RS)</a> </li>
+				<li> <a href="https://github.com/rajatt95/PythonRequests_BDD">Requests BDD (Python, Behave) (RS)</a> </li>
 				<li> <a href="https://github.com/rajatt95/Python_Requests_TWI">Requests Tutorial (Python) (TWI)</a> </li>
 			</ul>	
 		</ul>
@@ -102,8 +102,8 @@
 			<ul style="list-style-type:circle">
 				<li> <a href="https://github.com/rajatt95/Final_Automation_Framework_Components_Tutorial">Test Automation Framework Components (Java)</a> </li>
 				<li> <a href="https://github.com/rajatt95/Final_PageObjectModel_And_PageFactories_Tutorial">Page Object Model with Page Factories (Java)</a> </li>
-				<li> <a href="https://github.com/rajatt95/Final_TestNG_Tutorial">TestNG (Java)</a> </li>
-				<li> <a href="https://github.com/rajatt95/Final_Cucumber_Tutorial">Cucumber (Java)</a> </li>
+				<li> <a href="https://github.com/rajatt95/Final_TestNG_Tutorial">TestNG (Java) (RS)</a> </li>
+				<li> <a href="https://github.com/rajatt95/Final_Cucumber_Tutorial">Cucumber (Java) (RS)</a> </li>
 				<li> <a href="https://github.com/rajatt95/Python_PyTest_TWI">PyTest (Python) (TWI)</a> </li>
 				</ul>
 		</ul>
