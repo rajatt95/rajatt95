@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatt95" alt="rajatt95" /></a> </p>
 
-- 🌱 I’m currently learning <a href ="https://www.udemy.com/course/api-testing-python/">
-	<b> Step by Step Rest API Testing using Python + Pytest +Allure </b> </a>
+- 🌱 I’m currently learning <a href ="https://www.udemy.com/course/learn-git-tutorial-bitbucket/">
+	<b> Learn GIT In depth with BitBucket- Practical work flows </b> </a>
 	
 - 💻 Great teachers emanate out of knowledge, passion and compassion. The best teachers teach from the heart. Thank you for all that you do!
 	- <a href="https://github.com/stars/rajatt95/lists/udemy-omprakash-chavan"> <b> <i> Omprakash Chavan </i> (UDEMY) </b> </a>
