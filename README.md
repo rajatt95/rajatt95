@@ -10,6 +10,10 @@
 	
 - 💻 Great teachers emanate out of knowledge, passion and compassion. The best teachers teach from the heart. Thank you for all that you do!
 	- <a href="https://github.com/stars/rajatt95/lists/udemy-omprakash-chavan"> <b> <i> Omprakash Chavan </i> (UDEMY) </b> </a>
+		- <a href="https://www.udemy.com/course/selenium-java-test-framework/"> Selenium Java Test Framework & Best Practices - Masterclass </a> - <b> Completed </b>
+		- <a href="https://www.udemy.com/course/rest-assured-api-automation/"> REST Assured API Automation from scratch + Framework + CI </a> - <b> Completed </b>
+		- <a href="https://www.udemy.com/course/the-complete-appium-course-for-ios-and-android/"> Appium Mobile Automation - Android & iOS + Frameworks + CICD </a> - <b> Completed </b>
+		- <a href="https://www.udemy.com/course/cucumber-bdd-masterclass/"> Cucumber BDD Masterclass with Selenium 4 & Java + Framework </a> - <b> Completed </b>
 	- <a href="https://github.com/stars/rajatt95/lists/testing-mini-bytes-amuthan"> <b> <i> Amuthan Sakthivel </i> (Testing Mini Bytes, YouTube) </b> </a>
 	- <a href="https://github.com/stars/rajatt95/lists/udemy-rahul-shetty"> <b> <i> Rahul Shetty </i> (UDEMY) </b> </a>
 	- <a href="https://github.com/stars/rajatt95/lists/udemy-kaniel-outis"> <b> <i> Kaniel Outis </i> (UDEMY) </b> </a>
