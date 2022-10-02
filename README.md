@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajat Verma</h1>
-<h3 align="center">Rajat Verma  |  Software Test Engineer  |  5+ years EXP.  |  C-DAC |  India</h3>
+<h3 align="center">Rajat Verma  |  Software Test Engineer  |  5.7+ years EXP.  |  C-DAC |  India</h3>
 								
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatt95&label=Profile%20views&color=0e75b6&style=flat" alt="rajatt95" /> </p>
 
@@ -10,10 +10,6 @@
 	
 - 💻 Great teachers emanate out of knowledge, passion and compassion. The best teachers teach from the heart. Thank you for all that you do!
 	- <a href="https://github.com/stars/rajatt95/lists/udemy-omprakash-chavan"> <b> <i> Omprakash Chavan </i> (UDEMY) </b> </a>
-		- <a href="https://www.udemy.com/course/selenium-java-test-framework/"> Selenium Java Test Framework & Best Practices - Masterclass </a> - <b> Completed </b>
-		- <a href="https://www.udemy.com/course/rest-assured-api-automation/"> REST Assured API Automation from scratch + Framework + CI </a> - <b> Completed </b>
-		- <a href="https://www.udemy.com/course/the-complete-appium-course-for-ios-and-android/"> Appium Mobile Automation - Android & iOS + Frameworks + CICD </a> - <b> Completed </b>
-		- <a href="https://www.udemy.com/course/cucumber-bdd-masterclass/"> Cucumber BDD Masterclass with Selenium 4 & Java + Framework </a> - <b> Completed </b>
 	- <a href="https://github.com/stars/rajatt95/lists/testing-mini-bytes-amuthan"> <b> <i> Amuthan Sakthivel </i> (Testing Mini Bytes, YouTube) </b> </a>
 	- <a href="https://github.com/stars/rajatt95/lists/udemy-rahul-shetty"> <b> <i> Rahul Shetty </i> (UDEMY) </b> </a>
 	- <a href="https://github.com/stars/rajatt95/lists/udemy-kaniel-outis"> <b> <i> Kaniel Outis </i> (UDEMY) </b> </a>
@@ -62,6 +58,7 @@
 	<li><a href="https://github.com/rajatt95" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
 	<li><a href="https://rajatt95.github.io/" class="icon brands fa-github-alt"><span class="label">GitHub Page</span></a></li>
 </ul> -->
+
 -------------------------------------
 <article>
 	<h3>Projects</h3>
@@ -112,6 +109,45 @@
 				</ul>
 		</ul>
 </article>
+-------------------------------------
+		
+<article>
+	<h3> Courses completed </h3>
+		<ul>
+			<li><h4>Omprakash Chavan (UDEMY) </h4></li>
+			<ul style="list-style-type:circle">
+				<li> <a href="https://www.udemy.com/course/selenium-java-test-framework/">Selenium Java Test Framework & Best Practices - Masterclass</a> </li>
+				<li> <a href="https://www.udemy.com/course/rest-assured-api-automation/">REST Assured API Automation from scratch + Framework + CI</a> </li>
+				<li> <a href="https://www.udemy.com/course/the-complete-appium-course-for-ios-and-android/">Appium Mobile Automation - Android & iOS + Frameworks + CICD</a> </li>
+				<li> <a href="https://www.udemy.com/course/cucumber-bdd-masterclass/">Cucumber BDD Masterclass with Selenium 4 & Java + Framework </a> </li>
+			</ul>
+		</ul>
+		<ul>
+			<li><h4>Rahul Shetty (UDEMY)</h4></li>
+			<ul style="list-style-type:circle">
+				<li> To be updated..... </li>
+			</ul>	
+		</ul>
+		<ul>
+			<li><h4>Testing Mini Bytes (UDEMY, Youtube, TMB) </h4></li>	
+			<ul style="list-style-type:circle">
+				<li> To be updated..... </li>
+			</ul>		
+		</ul>
+		<ul>
+			<li><h4>Kaniel Outis (UDEMY)</h4></li>
+			<ul style="list-style-type:circle">
+				<li> To be updated..... </li>
+			</ul>	
+		</ul>
+		<ul>
+			<li><h4>Testing World InfoTech (UDEMY)</h4></li>
+			<ul style="list-style-type:circle">
+				<li> To be updated..... </li>
+			</ul>	
+		</ul>
+</article>
+
 -------------------------------------
 
 <h3 align="left">Languages and Tools:</h3>
