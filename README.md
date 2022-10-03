@@ -114,12 +114,12 @@
 <article>
 	<h3> Courses completed </h3>
 		<ul>
-			<li><h4>Omprakash Chavan (UDEMY) </h4></li>
+			<li><h4>Omprakash Chavan (UDEMY)</h4></li>
 			<ul style="list-style-type:circle">
-				<li> <a href="https://www.udemy.com/course/selenium-java-test-framework/">Selenium Java Test Framework & Best Practices - Masterclass</a> </li>
-				<li> <a href="https://www.udemy.com/course/rest-assured-api-automation/">REST Assured API Automation from scratch + Framework + CI</a> </li>
-				<li> <a href="https://www.udemy.com/course/the-complete-appium-course-for-ios-and-android/">Appium Mobile Automation - Android & iOS + Frameworks + CICD</a> </li>
-				<li> <a href="https://www.udemy.com/course/cucumber-bdd-masterclass/">Cucumber BDD Masterclass with Selenium 4 & Java + Framework </a> </li>
+				<li> <a href="https://github.com/stars/rajatt95/lists/udemy-oc-selenium">Selenium Java Test Framework & Best Practices - Masterclass</a> </li>
+				<li> <a href="https://github.com/stars/rajatt95/lists/udemy-oc-restassured">REST Assured API Automation from scratch + Framework + CI</a> </li>
+				<li> <a href="https://github.com/stars/rajatt95/lists/udemy-oc-appium">Appium Mobile Automation - Android & iOS + Frameworks + CICD</a> </li>
+				<li> <a href="https://github.com/stars/rajatt95/lists/udemy-oc-bdd-cucumber">Cucumber BDD Masterclass with Selenium 4 & Java + Framework </a> </li>
 			</ul>
 		</ul>
 		<ul>
