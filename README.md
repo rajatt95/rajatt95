@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajat Verma</h1>
-<h3 align="center">Rajat Verma  |  Software Test Engineer  |  5.7+ years EXP.  |  C-DAC |  India</h3>
+<h3 align="center">Rajat Verma  |  Software Test Engineer  |  5.9+ years EXP.  |  C-DAC |  India</h3>
 								
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatt95&label=Profile%20views&color=0e75b6&style=flat" alt="rajatt95" /> </p>
 
@@ -123,16 +123,16 @@
 			</ul>
 		</ul>
 		<ul>
+			<li><h4>Testing Mini Bytes (UDEMY, Youtube, TMB) </h4></li>	
+			<ul style="list-style-type:circle">
+				<li> <a href="https://github.com/stars/rajatt95/lists/youtube-tmb-github-actions">Github Actions in Test Automation</a> </li>
+			</ul>		
+		</ul>
+		<ul>
 			<li><h4>Rahul Shetty (UDEMY)</h4></li>
 			<ul style="list-style-type:circle">
 				<li> To be updated..... </li>
 			</ul>	
-		</ul>
-		<ul>
-			<li><h4>Testing Mini Bytes (UDEMY, Youtube, TMB) </h4></li>	
-			<ul style="list-style-type:circle">
-				<li> To be updated..... </li>
-			</ul>		
 		</ul>
 		<ul>
 			<li><h4>Kaniel Outis (UDEMY)</h4></li>
