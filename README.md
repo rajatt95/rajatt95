@@ -10,12 +10,11 @@
 	
 - 💻 Great teachers emanate out of knowledge, passion and compassion. The best teachers teach from the heart. Thank you for all that you do!
 	- <a href="https://github.com/stars/rajatt95/lists/udemy-omprakash-chavan"> <b> <i> Omprakash Chavan </i> (UDEMY) </b> </a>
-	- <a href="https://github.com/stars/rajatt95/lists/testing-mini-bytes-amuthan"> <b> <i> Amuthan Sakthivel </i> (Testing Mini Bytes, YouTube) </b> </a>
+	- <a href="https://github.com/stars/rajatt95/lists/testing-mini-bytes-amuthan"> <b> <i> Amuthan Sakthivel </i> (UDEMY, Testing Mini Bytes, YouTube) </b> </a>
 	- <a href="https://github.com/stars/rajatt95/lists/udemy-rahul-shetty"> <b> <i> Rahul Shetty </i> (UDEMY) </b> </a>
 	- <a href="https://github.com/stars/rajatt95/lists/udemy-kaniel-outis"> <b> <i> Kaniel Outis </i> (UDEMY) </b> </a>
-	- <a href="https://github.com/stars/rajatt95/lists/udemy-testing-world-infotech"> <b> <i> Testing World Infotech </i> (UDEMY) </b> </a>
-	
-	
+	- <a href="https://github.com/stars/rajatt95/lists/udemy-testing-world-infotech"> <b> <i> Testing World Infotech </i> (UDEMY) </b> </a>	
+	- <a href="https://github.com/stars/rajatt95/lists/youtube-pavan-kumar"> <b> <i> Pavan Kumar </i> (Youtube) </b> </a>
 
 <!-- - All of my projects are available at <a href="https://github.com/rajatt95"><b>Rajat - Github Profile</b></a>
  -->
@@ -123,9 +122,9 @@
 			</ul>
 		</ul>
 		<ul>
-			<li><h4>Testing Mini Bytes (UDEMY, Youtube, TMB) </h4></li>	
+			<li><h4>Testing Mini Bytes (UDEMY, Testing Mini Bytes, YouTube) </h4></li>	
 			<ul style="list-style-type:circle">
-				<li> <a href="https://github.com/stars/rajatt95/lists/youtube-tmb-github-actions">Github Actions in Test Automation</a> </li>
+				<li> <a href="https://github.com/stars/rajatt95/lists/youtube-tmb-github-actions">Github Actions in Test Automation</a </li>
 			</ul>		
 		</ul>
 		<ul>
@@ -144,6 +143,12 @@
 			<li><h4>Testing World InfoTech (UDEMY)</h4></li>
 			<ul style="list-style-type:circle">
 				<li> To be updated..... </li>
+			</ul>	
+		</ul>
+		<ul>
+			<li><h4>Pavan Kumar (Youtube)</h4></li>
+			<ul style="list-style-type:circle">
+				<li> <a href="https://github.com/stars/rajatt95/lists/youtube-pavan-manual-testing">Manual Testing (Full Course)</a </li>
 			</ul>	
 		</ul>
 </article>
