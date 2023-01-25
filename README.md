@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajat Verma</h1>
-<h3 align="center">Rajat Verma  |  Software Test Engineer  |  5.9+ years EXP.  |  C-DAC |  India</h3>
+<h3 align="center">Rajat Verma  |  Software Test Engineer  |  5.11+ years EXP.  |  C-DAC |  India</h3>
 								
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatt95&label=Profile%20views&color=0e75b6&style=flat" alt="rajatt95" /> </p>
 
@@ -45,7 +45,9 @@
 - 📫 How to reach me 
 	- <a href="https://rajatt95.github.io/"> <b> <i> Rajat - Github Page </i> </b> </a>	
 	- <a href="https://github.com/rajatt95/"> <b> <i> Rajat - Github Profile </i> </b> </a>	
-	- <a href="https://www.linkedin.com/in/rajat-v-3b0685128/"> <b> <i> Rajat - LinkedIn </i> </b> </a>	
+	- <a href="https://www.linkedin.com/in/rajatt95/"> <b> <i> Rajat - LinkedIn </i> </b> </a>	
+	- <a href="https://topmate.io/rajatt95"> <b> <i> Rajat - Topmate </i> </b> </a>	
+	- <a href="https://www.youtube.com/@rajatt95"> <b> <i> Rajat - Youtube </i> </b> </a>	
 	- <a href="https://drive.google.com/drive/folders/10thl_mWevemQHabVzpY_a2ie1BG13rUk?usp=sharing"> <b> <i> Rajat - Resume </i> </b> </a>	
  
 <!-- 
