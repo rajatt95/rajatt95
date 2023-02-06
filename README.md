@@ -138,7 +138,8 @@
 		<ul>
 			<li><h4>Kaniel Outis (UDEMY)</h4></li>
 			<ul style="list-style-type:circle">
-				<li> To be updated..... </li>
+				<li> <a href="https://github.com/stars/rajatt95/lists/udemy-ko-playwright">Automated Software Testing with Playwright</a> </li>
+				<li> <a href="https://github.com/stars/rajatt95/lists/udemy-ko-cypress">Automated Software Testing with Cypress</a> </li>
 			</ul>	
 		</ul>
 		<ul>
