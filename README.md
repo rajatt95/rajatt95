@@ -127,12 +127,15 @@
 			<li><h4>Testing Mini Bytes (UDEMY, Testing Mini Bytes, YouTube) </h4></li>	
 			<ul style="list-style-type:circle">
 				<li> <a href="https://github.com/stars/rajatt95/lists/youtube-tmb-github-actions">Github Actions in Test Automation</a </li>
+				<li> <a href="https://github.com/stars/rajatt95/lists/testing-mini-bytes-selenium">Selenium - Java with Docker, Git and Jenkins</a </li>
 			</ul>		
 		</ul>
 		<ul>
 			<li><h4>Rahul Shetty (UDEMY)</h4></li>
 			<ul style="list-style-type:circle">
-				<li> To be updated..... </li>
+				<li> <a href="https://github.com/stars/rajatt95/lists/udemy-rs-cypress">Cypress -Modern Automation Testing from Scratch + Frameworks</a </li>
+				<li> <a href="https://github.com/stars/rajatt95/lists/udemy-rs-playwright">Playwright JS Automation Testing from Scratch with Framework</a </li>
+				<li> <a href="https://github.com/stars/rajatt95/lists/udemy-rs-requests">API Testing with Python 3 & PyTest, Backend Automation 2023</a </li>
 			</ul>	
 		</ul>
 		<ul>
@@ -145,7 +148,7 @@
 		<ul>
 			<li><h4>Testing World InfoTech (UDEMY)</h4></li>
 			<ul style="list-style-type:circle">
-				<li> To be updated..... </li>
+				<li> <a href="https://github.com/stars/rajatt95/lists/udemy-twi-python-pytest">Step by Step Rest API Testing using Python + Pytest +Allure</a> </li>
 			</ul>	
 		</ul>
 		<ul>
