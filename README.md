@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rajat Verma</h1>
-<h3 align="center">Rajat Verma  |  Software Test Engineer  |  5.11+ years EXP.  |  C-DAC |  India</h3>
+<h3 align="center">Rajat Verma  |  Software Test Engineer  |  6+ years EXP.  |  C-DAC |  India</h3>
 								
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatt95&label=Profile%20views&color=0e75b6&style=flat" alt="rajatt95" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatt95" alt="rajatt95" /></a> </p>
 
-- 🌱 I’m currently learning <a href ="https://www.udemy.com/course/learn-git-tutorial-bitbucket/">
-	<b> Learn GIT In depth with BitBucket- Practical work flows </b> </a>
+- 🌱 I’m currently working for <a href ="https://www.youtube.com/@rajatt95">
+	<b> Youtube Channel (Software Testing - Rajat Verma) </b> </a>
 	
 - 💻 Great teachers emanate out of knowledge, passion and compassion. The best teachers teach from the heart. Thank you for all that you do!
 	- <a href="https://github.com/stars/rajatt95/lists/udemy-omprakash-chavan"> <b> <i> Omprakash Chavan </i> (UDEMY) </b> </a>
