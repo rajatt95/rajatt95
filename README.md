@@ -15,7 +15,7 @@
 	- <a href="https://github.com/stars/rajatt95/lists/udemy-kaniel-outis"> <b> <i> Kaniel Outis </i> (UDEMY) </b> </a>
 	- <a href="https://github.com/stars/rajatt95/lists/udemy-testing-world-infotech"> <b> <i> Testing World Infotech </i> (UDEMY) </b> </a>	
 	- <a href="https://github.com/stars/rajatt95/lists/youtube-pavan-kumar"> <b> <i> Pavan Kumar </i> (Youtube) </b> </a>
-	- <a href="https://github.com/stars/rajatt95/lists/tau-toyer-mamoojee"> <b> <i> Toyer Mamoojee </i> (Test Automation University) </b> </a>
+
 
 <!-- - All of my projects are available at <a href="https://github.com/rajatt95"><b>Rajat - Github Profile</b></a>
  -->
@@ -157,12 +157,6 @@
 			<li><h4>Pavan Kumar (Youtube)</h4></li>
 			<ul style="list-style-type:circle">
 				<li> <a href="https://github.com/stars/rajatt95/lists/youtube-pavan-manual-testing">Manual Testing (Full Course)</a </li>
-			</ul>	
-		</ul>
-		<ul>
-			<li><h4>Toyer Mamoojee (Test Automation University)</h4></li>
-			<ul style="list-style-type:circle">
-				<li> <a href="https://github.com/stars/rajatt95/lists/tau-tm-jest">Jest JavaScript Testing Framework</a </li>
 			</ul>	
 		</ul>
 </article>
