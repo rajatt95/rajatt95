@@ -1,69 +1,75 @@
-<h1 align="center">Hi 👋, I'm Rajat Verma</h1>
-<h3 align="center">Rajat Verma  |  Software Test Engineer  |  6+ years EXP.  |  C-DAC |  India</h3>
-								
+# Welcome to Rajat's GitHub Profile! 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatt95&label=Profile%20views&color=0e75b6&style=flat" alt="rajatt95" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatt95" alt="rajatt95" /></a> </p>
+## About Me
 
-- 🌱 I’m currently working for <a href ="https://www.youtube.com/@rajatt95">
-	<b> Youtube Channel (Software Testing - Rajat Verma) </b> </a>
-	
-- 💻 Great teachers emanate out of knowledge, passion and compassion. The best teachers teach from the heart. Thank you for all that you do!
-	- <a href="https://github.com/stars/rajatt95/lists/udemy-omprakash-chavan"> <b> <i> Omprakash Chavan </i> (UDEMY) </b> </a>
-	- <a href="https://github.com/stars/rajatt95/lists/testing-mini-bytes-amuthan"> <b> <i> Amuthan Sakthivel </i> (UDEMY, Testing Mini Bytes, YouTube) </b> </a>
-	- <a href="https://github.com/stars/rajatt95/lists/udemy-rahul-shetty"> <b> <i> Rahul Shetty </i> (UDEMY) </b> </a>
-	- <a href="https://github.com/stars/rajatt95/lists/udemy-kaniel-outis"> <b> <i> Kaniel Outis </i> (UDEMY) </b> </a>
-	- <a href="https://github.com/stars/rajatt95/lists/udemy-testing-world-infotech"> <b> <i> Testing World Infotech </i> (UDEMY) </b> </a>	
-	- <a href="https://github.com/stars/rajatt95/lists/youtube-pavan-kumar"> <b> <i> Pavan Kumar </i> (Youtube) </b> </a>
+- Rajat Verma  |  Software Test Engineer  |  6+ years EXP.  |  C-DAC |  India |
+[![Resume](https://img.shields.io/badge/Resume-Download-brightgreen?style=flat-square&logo=adobe-acrobat-reader)](https://drive.google.com/drive/folders/10thl_mWevemQHabVzpY_a2ie1BG13rUk?usp=sharing)
+- I’m looking to collaborate on Test Automation Frameworks Development (Web, Mobile and API).
 
+## 🔭  Projects - Test Automation Frameworks
 
-<!-- - All of my projects are available at <a href="https://github.com/rajatt95"><b>Rajat - Github Profile</b></a>
- -->
-<!-- - 💻 All of my projects are available at <a href="https://github.com/rajatt95"><b>Rajat - Github Profile</b></a> -->
+- [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/stars/rajatt95/lists/programming-language-java)  - 
+  [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://github.com/stars/rajatt95/lists/selenium-automation-frameworks)
+  [![Appium](https://img.shields.io/badge/Appium-40C4FF?style=for-the-badge&logo=appium&logoColor=white)](https://github.com/stars/rajatt95/lists/appium-automation-frameworks)
+  [![Rest Assured](https://img.shields.io/badge/Rest%20Assured-5B47A5?style=for-the-badge&logo=rest-assured&logoColor=white)](https://github.com/stars/rajatt95/lists/restassured-automation-framework)
 
-- 👨‍💻 I’m looking to collaborate on <a href="https://github.com/rajatt95"><b> Test Automation Frameworks Development (Web, Mobile and API)</b></a>
-	- <a href="https://github.com/stars/rajatt95/lists/selenium-automation-frameworks"> <b> <i> Selenium Automation Frameworks </i> </b> </a>
-	- <a href="https://github.com/stars/rajatt95/lists/appium-automation-frameworks"> <b> <i> Appium Automation Frameworks </i> </b> </a>	
-	- <a href="https://github.com/stars/rajatt95/lists/restassured-automation-framework"> <b> <i> RestAssured Automation Frameworks </i> </b> </a>
-	- <a href="https://github.com/stars/rajatt95/lists/cypress-automation-frameworks"> <b> <i> Cypress Automation Frameworks </i> </b> </a>
-	- <a href="https://github.com/stars/rajatt95/lists/playwright-automation-frameworks"> <b> <i> Playwright Automation Frameworks </i> </b> </a>
-	- <a href="https://github.com/stars/rajatt95/lists/requests-automation-framework"> <b> <i> Requests Automation Frameworks </i> </b> </a>
+- [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/stars/rajatt95/lists/programming-language-javascript) - 
+[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://github.com/stars/rajatt95/lists/cypress-automation-frameworks)
+[![Playwright](https://img.shields.io/badge/Playwright-34495E?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/stars/rajatt95/lists/playwright-automation-frameworks)
 
+- [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/stars/rajatt95/lists/programming-language-python) -
+  [![Requests](https://img.shields.io/badge/Requests-2CA5E0?style=for-the-badge&logo=python&logoColor=white)](https://github.com/stars/rajatt95/lists/requests-automation-framework)
 
+## 📄  Documents - Technical Topics
+- [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1tne9pZjgWvfrS0l9tVHs6k1jnQHpTLoA?usp=sharing)
+- [![GitHub Repository](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajatt95/Documents)
 
-- 📄 Documents on Technical Topics 
-	- <a href="https://drive.google.com/drive/folders/1tne9pZjgWvfrS0l9tVHs6k1jnQHpTLoA?usp=sharing"> <b> <i> Documents - Google Drive </i> </b> </a>
-	- <a href="https://github.com/rajatt95/Documents"> <b> <i> Documents - Github repository </i> </b> </a>	
-
-- 👨🏽‍💻 Programming languages
-	- <a href="https://github.com/stars/rajatt95/lists/programming-language-java"> <b> <i> Java </i> </b> </a>
-	- <a href="https://github.com/stars/rajatt95/lists/programming-language-javascript"> <b> <i> Javascript </i> </b> </a>
-	- <a href="https://github.com/stars/rajatt95/lists/programming-language-python"> <b> <i> Python </i> </b> </a>
-
-
-<!-- - 📫 How to reach me **rajatvermaa95@gmail.com** and <a href="https://rajatt95.github.io/"> <b> Rajat Github Page</b></a>
- -->
-- 📫 How to reach me 
-	- <a href="https://rajatt95.github.io/"> <b> <i> Rajat - Github Page </i> </b> </a>	
-	- <a href="https://github.com/rajatt95/"> <b> <i> Rajat - Github Profile </i> </b> </a>	
-	- <a href="https://www.linkedin.com/in/rajatt95/"> <b> <i> Rajat - LinkedIn </i> </b> </a>	
-	- <a href="https://topmate.io/rajatt95"> <b> <i> Rajat - Topmate </i> </b> </a>	
-	- <a href="https://www.youtube.com/@rajatt95"> <b> <i> Rajat - Youtube </i> </b> </a>	
-	- <a href="https://drive.google.com/drive/folders/10thl_mWevemQHabVzpY_a2ie1BG13rUk?usp=sharing"> <b> <i> Rajat - Resume </i> </b> </a>	
  
-<!-- 
-<h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://linkedin.com/in/rajat-v-3b0685128/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat-v-3b0685128/" height="30" width="40" /></a></p>
- -->
-<!-- <ul class="icons">
-	<li><a href="https://www.linkedin.com/in/rajat-v-3b0685128/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
-	<li><a href="https://github.com/rajatt95" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
-	<li><a href="https://rajatt95.github.io/" class="icon brands fa-github-alt"><span class="label">GitHub Page</span></a></li>
-</ul> -->
+## 🌱 I’m currently working on [![YouTube](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/@rajatt95)
 
+- Focusing on improving my skills in Test Automation. I believe in continuous learning and enjoy exploring new technologies.
+
+## 📝 Latest Youtube Tutorials
+
+- <a href="https://www.youtube.com/watch?v=xVlSLhB3VcA"> <img src="https://img.youtube.com/vi/xVlSLhB3VcA/0.jpg" alt="Tutorial | POM | Selenium WebDriver + Java" width="200"> </a>
+<a href="https://www.youtube.com/watch?v=TqlQEa_a9AU"> <img src="https://img.youtube.com/vi/TqlQEa_a9AU/0.jpg" alt="Interview Preparation and Tips" width="200"> </a>
+<a href="https://www.youtube.com/watch?v=dHYMRWVjG-w"> <img src="https://img.youtube.com/vi/dHYMRWVjG-w/0.jpg" alt="Tutorial | Testing Framework | TestNG" width="200"> </a>
+- <a href="https://www.youtube.com/watch?v=TQ0a_VxXCcg"> <img src="https://img.youtube.com/vi/TQ0a_VxXCcg/0.jpg" alt="Tutorial | Build Automation Tool | Maven" width="200"> </a>
+<a href="https://www.youtube.com/watch?v=9nqp8MQz438"> <img src="https://img.youtube.com/vi/9nqp8MQz438/0.jpg" alt="Softwares Setup | OS | WIN" width="200"> </a>
+<a href="https://www.youtube.com/watch?v=UDaumio0I3s"> <img src="https://img.youtube.com/vi/UDaumio0I3s/0.jpg" alt="Softwares Setup | OS | MAC" width="200"> </a>
+
+## 📈 GitHub Stats
+
+![Rajat Verma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajatt95&show_icons=true&theme=radical)
+
+## 💻 Always Thankful to Tutors
+- [![Omprakash Chavan](https://img.shields.io/badge/Omprakash_Chavan-2C3E50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stars/rajatt95/lists/udemy-omprakash-chavan)
+- [![Amuthan Sakhtivel](https://img.shields.io/badge/Amuthan_Sakhtivel-2C3E50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stars/rajatt95/lists/testing-mini-bytes-amuthan)
+- [![Rahul Shetty](https://img.shields.io/badge/Rahul_Shetty-2C3E50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stars/rajatt95/lists/udemy-rahul-shetty)
+- [![Kaniel Outis](https://img.shields.io/badge/Kaniel_Outis-2C3E50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stars/rajatt95/lists/udemy-kaniel-outis)
+- [![Testing World InfoTech](https://img.shields.io/badge/Testing_World_InfoTech-2C3E50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stars/rajatt95/lists/udemy-testing-world-infotech)
+- [![Pavan Kumar](https://img.shields.io/badge/Pavan_Kumar-2C3E50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stars/rajatt95/lists/youtube-pavan-kumar)
+
+## 💬 Let's Connect
+
+- [![Email](https://img.shields.io/badge/Email-rajatvermaa95%40gmail.com-green)](mailto:rajatvermaa95@gmail.com)
+- [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/rajatt95)
+- [![GitHub Page](https://img.shields.io/badge/GitHub-Page-lightgrey)](https://rajatt95.github.io/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/rajatt95)
+- [![Topmate](https://img.shields.io/badge/Topmate-Profile-red)](https://topmate.io/rajatt95)
+- [![Telegram](https://img.shields.io/badge/Telegram-Chat-blue)](https://t.me/rajatt95)
+- [![Instagram](https://img.shields.io/badge/Instagram-Profile-orange)](https://www.instagram.com/rajattvermaa95/)
+- [![YouTube](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/@rajatt95)
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-brightgreen)](https://chat.whatsapp.com/LP20xMGvxnEL88GoB58bo1)
+
+Feel free to reach out if you have any questions, or suggestions, or just want to chat!
+Thanks for visiting my GitHub profile! 😊
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatt95&label=Profile%20views&color=0e75b6&style=flat" alt="rajatt95" /> </p>
 -------------------------------------
 <article>
-	<h3>Projects</h3>
+	<h3>Other Projects</h3>
 		<ul>
 			<li><h4>Web Automation</h4></li>
 			<ul style="list-style-type:circle">
@@ -160,14 +166,4 @@
 			</ul>	
 		</ul>
 </article>
-
 -------------------------------------
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatt95&show_icons=true&locale=en&layout=compact" alt="rajatt95" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatt95&show_icons=true&locale=en" alt="rajatt95" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatt95&" alt="rajatt95" /></p>
