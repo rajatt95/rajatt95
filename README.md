@@ -25,12 +25,11 @@
 - [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1tne9pZjgWvfrS0l9tVHs6k1jnQHpTLoA?usp=sharing)
 - [![GitHub Repository](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajatt95/Documents)
 
- 
-## 🌱 I’m currently working on [![YouTube](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/@rajatt95)
 
+## 📝 I’m currently working on [![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rajatt95)
 - Focusing on improving my skills in Test Automation. I believe in continuous learning and enjoy exploring new technologies.
 
-## 📝 Latest Youtube Tutorials
+## 🎥 Latest Youtube Tutorials
 
 - <a href="https://www.youtube.com/watch?v=xVlSLhB3VcA"> <img src="https://img.youtube.com/vi/xVlSLhB3VcA/0.jpg" alt="Tutorial | POM | Selenium WebDriver + Java" width="200"> </a>
 <a href="https://www.youtube.com/watch?v=TqlQEa_a9AU"> <img src="https://img.youtube.com/vi/TqlQEa_a9AU/0.jpg" alt="Interview Preparation and Tips" width="200"> </a>
@@ -54,7 +53,7 @@
 - [![Testing World InfoTech](https://img.shields.io/badge/Testing_World_InfoTech-2C3E50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stars/rajatt95/lists/udemy-testing-world-infotech)
 - [![Pavan Kumar](https://img.shields.io/badge/Pavan_Kumar-2C3E50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stars/rajatt95/lists/youtube-pavan-kumar)
 
-## 💬 Let's Connect
+## 📧 Let's Connect
 
 - [![Email](https://img.shields.io/badge/Email-rajatvermaa95%40gmail.com-green)](mailto:rajatvermaa95@gmail.com)
 - [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/rajatt95)
