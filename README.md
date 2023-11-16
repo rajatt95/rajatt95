@@ -39,6 +39,9 @@
 <a href="https://www.youtube.com/watch?v=9nqp8MQz438"> <img src="https://img.youtube.com/vi/9nqp8MQz438/0.jpg" alt="Softwares Setup | OS | WIN" width="200"> </a>
 <a href="https://www.youtube.com/watch?v=UDaumio0I3s"> <img src="https://img.youtube.com/vi/UDaumio0I3s/0.jpg" alt="Softwares Setup | OS | MAC" width="200"> </a>
 
+- Click on the image above to watch the tutorial.
+
+
 ## 📈 GitHub Stats
 
 ![Rajat Verma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajatt95&show_icons=true&theme=radical)
@@ -58,11 +61,10 @@
 - [![GitHub Page](https://img.shields.io/badge/GitHub-Page-lightgrey)](https://rajatt95.github.io/)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/rajatt95)
 - [![Topmate](https://img.shields.io/badge/Topmate-Profile-red)](https://topmate.io/rajatt95)
-- [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue)](https://t.me/rajatt95)
+- [![Telegram](https://img.shields.io/badge/Telegram-Chat-blue)](https://t.me/rajatt95)
 - [![Instagram](https://img.shields.io/badge/Instagram-Profile-orange)](https://www.instagram.com/rajattvermaa95/)
 - [![YouTube](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/@rajatt95)
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-Community-brightgreen)](https://chat.whatsapp.com/LP20xMGvxnEL88GoB58bo1)
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-Channel-brightgreen)](https://whatsapp.com/channel/0029Va9XXMhJ93waOU5Xer3r)
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-brightgreen)](https://chat.whatsapp.com/LP20xMGvxnEL88GoB58bo1)
 
 Feel free to reach out if you have any questions, or suggestions, or just want to chat!
 Thanks for visiting my GitHub profile! 😊
