@@ -1,4 +1,4 @@
-# Welcome to Rajat's GitHub Profile! 👋
+# Welcome to Rajat's GitHub Profile!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatt95&label=Profile%20views&color=0e75b6&style=flat" alt="rajatt95" /> </p>
 
 ## About Me
@@ -31,15 +31,18 @@
 
 ## 🎥 Latest Youtube Tutorials
 
-- <a href="https://www.youtube.com/watch?v=xVlSLhB3VcA"> <img src="https://img.youtube.com/vi/xVlSLhB3VcA/0.jpg" alt="Tutorial | POM | Selenium WebDriver + Java" width="200"> </a>
-<a href="https://www.youtube.com/watch?v=TqlQEa_a9AU"> <img src="https://img.youtube.com/vi/TqlQEa_a9AU/0.jpg" alt="Interview Preparation and Tips" width="200"> </a>
-<a href="https://www.youtube.com/watch?v=dHYMRWVjG-w"> <img src="https://img.youtube.com/vi/dHYMRWVjG-w/0.jpg" alt="Tutorial | Testing Framework | TestNG" width="200"> </a>
-- <a href="https://www.youtube.com/watch?v=TQ0a_VxXCcg"> <img src="https://img.youtube.com/vi/TQ0a_VxXCcg/0.jpg" alt="Tutorial | Build Automation Tool | Maven" width="200"> </a>
+- <a href="https://www.youtube.com/watch?v=g0nG6aPbpl4&list=PLrBBHmoBFxBUu9G7haETpa0B03H9GnfKX"> <img src="https://img.youtube.com/vi/g0nG6aPbpl4/0.jpg" alt="Test Automation Framework | WEB | Cypress + JS" width="200"> </a>
+<a href="https://www.youtube.com/watch?v=xVlSLhB3VcA&list=PLrBBHmoBFxBWV26aLM7VHcpljfJLHd6eQ"> <img src="https://img.youtube.com/vi/_NoOYqg8pJ4/0.jpg" alt="Tutorial | POM | Selenium WebDriver + Java" width="200"> </a>
+<a href="https://www.youtube.com/watch?v=TqlQEa_a9AU&list=PLrBBHmoBFxBVS6NhoGtuJFf37RDNYtImJ"> <img src="https://img.youtube.com/vi/TqlQEa_a9AU/0.jpg" alt="Interview Preparation and Tips" width="200"> </a>
+
+- <a href="https://www.youtube.com/watch?v=dHYMRWVjG-w&list=PLrBBHmoBFxBXTgjjm9met5BxJXBilhS7e"> <img src="https://img.youtube.com/vi/dHYMRWVjG-w/0.jpg" alt="Tutorial | Testing Framework | TestNG" width="200"> </a>
+<a href="https://www.youtube.com/watch?v=TQ0a_VxXCcg&list=PLrBBHmoBFxBXA4mg44h2dH6kspW8m5Em9"> <img src="https://img.youtube.com/vi/TQ0a_VxXCcg/0.jpg" alt="Tutorial | Build Automation Tool | Maven" width="200"> </a>
+
+<!--
 <a href="https://www.youtube.com/watch?v=9nqp8MQz438"> <img src="https://img.youtube.com/vi/9nqp8MQz438/0.jpg" alt="Softwares Setup | OS | WIN" width="200"> </a>
 <a href="https://www.youtube.com/watch?v=UDaumio0I3s"> <img src="https://img.youtube.com/vi/UDaumio0I3s/0.jpg" alt="Softwares Setup | OS | MAC" width="200"> </a>
-
-- Click on the image above to watch the tutorial.
-
+--> 
+- Click on the image above to watch the tutorials.
 
 ## 📈 GitHub Stats
 
@@ -74,6 +77,13 @@ Thanks for visiting my GitHub profile! 😊
 -------------------------------------
 <article>
 	<h3>Other Projects</h3>
+<!-- 		<ul>
+			<li><h4>Youtube</h4></li>
+			<ul style="list-style-type:circle">
+				<li> <a target="_blank" href="https://github.com/rajatt95/Tutorial_YT_Rajat_DesignPattern_POM_Selenium_Java">Page Object Model (Selenium WebDriver + Java)</a> </li>
+				<li> <a target="_blank" href="https://github.com/rajatt95/TestAutomationFramework_YT_Rajat_Web_Cypress_JS">Test Automation Framework (Cypress_+JS)</a> </li>
+		</ul>
+		</ul> -->
 		<ul>
 			<li><h4>Web Automation</h4></li>
 			<ul style="list-style-type:circle">
